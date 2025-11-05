@@ -4,13 +4,13 @@ import { createRoot } from 'react-dom/client';
 class MyStyling extends React.Component {
   render() {
     const myheaderstyle = {
-      color: "green",
-      backgroundColor: "skyblue",
+      color: "red",
+      backgroundColor: "blue",
       fontFamily: "Airal",
-      padding: "5px",
+      padding: "100px",
     };
     const mystyle = {
-      color: "blue",
+      color: "yellow",
       backgroundColor: "pink",
       fontFamily: "Times New Roman",
       padding: "10px",
