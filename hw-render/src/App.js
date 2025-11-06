@@ -21,3 +21,5 @@ const mycode = (
 );
 ReactDOM.render(mycode, document.getElementById('root'));
 export default App;
+
+ReactDOM.render(mycode, document.getElementById('root'));
